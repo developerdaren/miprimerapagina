@@ -75,7 +75,15 @@ max-width: 400px;
     .reconocimiento-dos {
         background-color: #000;
     }
-   
+    .negro {
+        background-color: rgb(84, 197, 218);
+    }
+   .btn-gradient {
+    color: #fff;
+    background: linear-gradient(45deg, #4b49be, #f90057, #bddb34);
+    border: none;
+    transition: background 0.3s;
+}
 
 @media (max-width: 992px){
     .ocultar-mobile {
