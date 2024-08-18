@@ -87,6 +87,9 @@ max-width: 400px;
 .sombra {
     box-shadow: 12px 20px 9px 0px teal;
 }
+.buton:hover {
+    transform: scale(1.1);
+}
 
 @media (max-width: 992px){
     .ocultar-mobile {
